@@ -1,6 +1,6 @@
 # Mr.MarketWatch
 
-![network structure](https://github.com/KingArthurZ3/MrMarketWatch/blob/master/assets/MrMarketWatch.png "Stock Display Site")
+![network structure](https://github.com/KingArthurZ3/StockDisplaySite/blob/master/assets/MrMarketWatch.png "Stock Display Site")
 
 Mr. Stock Market is an intelligent trading advisor that analyzes numeric financial data and market sentiment using a gradient boosting machine learning model and predicts weekly stock prices. The frontend and backend parts of this project continuously update and display current financial predictions and graph data. The machine learning models used are built using Tensorflow and Sci-kit learn and the graphical display gui is built on top of the Vue.js framework. 
 
